@@ -1,6 +1,4 @@
 "use strict";
-// 回答ママ
-// [TODO]もう一回やる
 exports.__esModule = true;
 exports.requestCoffeeMachineQueueLength = exports.requestCurrentServerTime = exports.requestUsers = exports.requestAdmins = void 0;
 var admins = [
