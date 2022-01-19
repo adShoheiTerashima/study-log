@@ -1,5 +1,3 @@
-// これは惜しかった！
-// もう一度やりましょう！
 declare module "stats" {
   type Comparator<T> = (a: T, b: T) => number;
 
